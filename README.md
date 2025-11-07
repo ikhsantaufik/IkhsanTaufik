@@ -72,8 +72,8 @@ Game real-time (Socket.IO), login Google OAuth, in-app purchase (diamonds).
 
 ## 📊 GitHub Stats
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ikhsantaufik&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikhsantaufik&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 <!-- Optional streak (hapus jika tidak perlu)
