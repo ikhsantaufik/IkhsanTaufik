@@ -36,7 +36,10 @@
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
   <img alt="Express" src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white"/>
   <img alt="NestJS" src="https://img.shields.io/badge/NestJS-e0234e?logo=nestjs&logoColor=white"/>
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"/>
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169e1?logo=postgresql&logoColor=white"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
   <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white"/>
   <!-- UI -->
   <img alt="Chakra UI" src="https://img.shields.io/badge/Chakra_UI-319795?logo=chakraui&logoColor=white"/>
