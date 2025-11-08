@@ -5,7 +5,7 @@
 
 <h1 align="center">Halo, saya Ikhsan Taufik 👋</h1>
 <p align="center">
-  Full-Stack Developer — React, TypeScript, Node.js, PostgreSQL
+  Full-Stack Developer — React, TypeScript, Laravel, PHP, Node.js, PostgreSQL, MySQL
 </p>
 
 <p align="center">
